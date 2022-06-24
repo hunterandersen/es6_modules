@@ -1,0 +1,22 @@
+{
+  "name": "es6_modules",
+  "version": "1.0.0",
+  "description": "TrueCoders exercise for learning modules and webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hunterandersen/es6_modules.git"
+  },
+  "author": "Hunter Andersen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hunterandersen/es6_modules/issues"
+  },
+  "homepage": "https://github.com/hunterandersen/es6_modules#readme",
+  "devDependencies": {
+    "webpack": "^5.73.0"
+  }
+}
